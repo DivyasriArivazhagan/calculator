@@ -1,4 +1,5 @@
 # simple_calculator.py
+# A simple calculator that performs basic arithmetic operations.
 
 print("Simple Calculator")
 
